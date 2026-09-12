@@ -1,0 +1,103 @@
+PWSID,PWSName,Size,State,FacilityWaterType,PFOA_max_ngL,PFOA_mean_ngL,PFOA_n,PFOA_detect,PFOS_max_ngL,PFOS_mean_ngL,PFOS_n,PFOS_detect,any_pfoa_pfos,any_pfas,n_zips
+010106001,Mashantucket Pequot Water System,L,01,GU,7.4,7.033333333333334,4.0,True,,,4.0,False,True,True,1.0
+010109005,Mohegan Tribal Utility Authority,L,01,SW,,,4.0,False,,,4.0,False,False,False,1.0
+020000005,SAINT REGIS MOHAWK TRIBE,S,02,SW,,,4.0,False,,,4.0,False,False,False,1.0
+020000008,CATTARAUGUS CWS,S,02,GW,,,6.0,False,,,6.0,False,False,False,4.0
+040000002,POARCH CREEK UTILITIES - WEST,S,04,GW,,,4.0,False,,,4.0,False,False,False,1.0
+043740039,CHEROKEE WATER SYSTEM,S,04,SW,,,4.0,False,,,4.0,False,False,False,1.0
+050593203,SAGANING,S,05,SW,,,4.0,False,,,4.0,False,False,False,1.0
+055293201,MT. PLEASANT,L,05,GW,,,2.0,False,,,2.0,False,False,False,1.0
+055293603,EAST BAY WATER WORKS,S,05,GW,,,4.0,False,,,4.0,False,False,False,1.0
+055293611,HANNAHVILLE COMMUNITY,S,05,GW,,,2.0,False,,,2.0,False,False,False,1.0
+055293702,LITTLE RIVER TRIBAL WATER SYSTEM,S,05,GW,,,2.0,False,,,2.0,False,False,False,1.0
+055294301,VINELAND,S,05,GW,,,2.0,False,,,2.0,False,False,False,1.0
+055294502,PRAIRIE ISLAND,S,05,GW,,,2.0,False,,,2.0,False,False,False,1.0
+055294503,LOWER SIOUX,S,05,GW,,,2.0,False,,,2.0,False,False,False,1.0
+055294506,SIOUX TRAIL,L,05,GW,,,2.0,False,,,2.0,False,False,False,1.0
+055295003,SOUTH-CENTRAL WATER SYSTEM,S,05,GW,,,2.0,False,,,2.0,False,False,False,1.0
+055295401,LAC DU FLAMBEAU,S,05,GW,,,4.0,False,,,4.0,False,False,True,1.0
+055295508,KESHENA,S,05,GW,,,2.0,False,,,2.0,False,False,False,1.0
+055295703,ONEIDA #1 OR SITE #1,S,05,GW,,,4.0,False,,,4.0,False,False,False,1.0
+061000101,EASTERN SHAWNEE,S,06,GW,,,2.0,False,,,2.0,False,False,False,1.0
+061020808,POTTAWATOMIE CO. RWD #3 (DALE PLANT),S,06,GW,,,2.0,False,4.1000000000000005,4.1000000000000005,2.0,True,True,True,1.0
+061620001,KICKAPOO TRADITIONAL TRIBE,S,06,SW,,,4.0,False,,,4.0,False,False,True,1.0
+061800001,TUNICA-BILOXI TRIBE OF LA,S,06,GW,,,2.0,False,,,2.0,False,False,False,1.0
+062004336,CHICKASAW WINSTAR,S,06,GW,,,8.0,False,,,8.0,False,False,False,1.0
+062005840,QUAPAW DOWNSTREAM CASINO & RESORT,S,06,GU,,,4.0,False,,,4.0,False,False,False,1.0
+063500120,SANTO DOMINGO PUEBLO,S,06,GW,,,2.0,False,,,2.0,False,False,False,1.0
+063500191,TAOS PUEBLO,S,06,GW,,,4.0,False,,,4.0,False,False,False,1.0
+063501100,POJOAQUE SOUTH,S,06,GW,,,4.0,False,,,4.0,False,False,False,1.0
+063501109,ISLETA EASTSIDE,S,06,GW,,,2.0,False,,,2.0,False,False,False,4.0
+063501124,ZUNI PUEBLO,L,06,GW,,,2.0,False,,,2.0,False,False,False,1.0
+063503109,ISLETA SHEA-WHIFF,S,06,GW,,,6.0,False,,,6.0,False,False,False,2.0
+063503111,LAGUNA VALLEY,S,06,GW,,,6.0,False,,,6.0,False,False,False,1.0
+063503115,SAN FELIPE BLACK MESA CASINO,S,06,GW,,,6.0,False,,,6.0,False,False,False,1.0
+063503118,SANTA ANA WESTSIDE,L,06,GW,,,4.0,False,,,4.0,False,False,False,1.0
+063506008,MESCALERO INN OF THE MT. GODS,L,06,GW,,,2.0,False,,,2.0,False,False,False,1.0
+063506111,LDC LAGUNA RT 66 CASINO,S,06,GW,,,2.0,False,,,2.0,False,False,False,1.0
+063506114,SANDIA RESORT & CASINO,L,06,GW,,,2.0,False,,,2.0,False,False,False,1.0
+070000003,SAC & FOX (MESKWAKI) IN IOWA,S,07,GW,,,2.0,False,,,2.0,False,False,False,1.0
+083090091,TOWN OF BROWNING,S,08,SW,,,4.0,False,,,4.0,False,False,False,1.0
+083890023,BELCOURT-TURTLE MTN RURAL WATER SYSTEM,L,08,GW,,,2.0,False,,,2.0,False,False,False,4.0
+083890025,SPIRIT LAKE WATER MANAGEMENT RWS,S,08,GW,,,1.0,False,,,1.0,False,False,False,1.0
+084690020,ST. FRANCIS,S,08,GW,,,2.0,False,,,2.0,False,False,False,1.0
+084690474,KYLE WATER SYSTEM,S,08,SW,,,6.0,False,,,6.0,False,False,False,1.0
+084690475,PINE RIDGE WATER SYSTEM,S,08,GW,,,6.0,False,,,6.0,False,False,False,1.0
+084690480,OGLALA RWS PIPELINE,S,08,GW,,,2.0,False,,,2.0,False,False,False,1.0
+084690510,STANDING ROCK RURAL WATER SYSTEM,S,08,SW,,,4.0,False,,,4.0,False,False,False,8.0
+084690516,SICANGU MNI WICONI RURAL WATER SYSTEM,S,08,SW,,,4.0,False,,,4.0,False,False,False,4.0
+084690528,ROSEBUD RURAL WATER SYSTEM,S,08,GW,,,2.0,False,,,2.0,False,False,False,4.0
+084690532,MISSION WATER SYSTEM,S,08,SW,,,4.0,False,,,4.0,False,False,False,1.0
+084990002,URIAH HEEPS SPRING WATER SYSTEM,S,08,GW,,,2.0,False,,,2.0,False,False,False,1.0
+085690003,FORT WASHAKIE,S,08,SW,9.299999999999999,9.299999999999999,10.0,True,,,10.0,False,True,True,2.0
+090400020,Vaya Chin Intertie,S,09,GW,,,4.0,False,,,4.0,False,False,False,2.0
+090400042,Sells Intertie,S,09,GW,,,2.0,False,,,2.0,False,False,False,1.0
+090400047,GRIC DPW Sacaton,S,09,GW,,,6.0,False,,,6.0,False,False,False,2.0
+090400051,Colorado River Regional Water System,S,09,GW,,,2.0,False,,,2.0,False,False,False,2.0
+090400063,BIA Truxton Agency,S,09,GW,,,2.0,False,,,2.0,False,False,False,1.0
+090400088,Fort McDowell Community,S,09,GW,,,3.0,False,,,3.0,False,False,False,1.0
+090400089,Quechan Utility,S,09,GW,,,4.0,False,,,4.0,False,False,False,1.0
+090400090,Ak Chin Village,L,09,SW,,,4.0,False,,,4.0,False,False,True,2.0
+090400106,Polacca,S,09,GW,,,2.0,False,,,2.0,False,False,False,1.0
+090400109,Salt River Public Works,L,09,GW,,,4.0,False,,,4.0,False,False,False,2.0
+090400114,SCUA Upper Seven Mile,S,09,GW,,,8.0,False,,,8.0,False,False,True,3.0
+090400117,Yavapai Apache - Cliff Castle,S,09,GW,,,2.0,False,,,2.0,False,False,False,2.0
+090400345,Lone Butte Industrial,S,09,GW,,,4.0,False,,,4.0,False,False,False,1.0
+090400673,Cocopah Casino,S,09,GW,,,2.0,False,,,2.0,False,False,False,1.0
+090400692,GRIC DPW Wild Horse Pass,L,09,GW,,,4.0,False,,,4.0,False,False,False,2.0
+090400693,WMATUA Miner Flat,L,09,MX,,,8.0,False,,,8.0,False,False,False,4.0
+090400703,Casino Arizona Talking Stick (CATS),L,09,GW,,,4.0,False,,,4.0,False,False,False,3.0
+090400707,Talking Stick Resort,L,09,GW,,,2.0,False,,,2.0,False,False,False,1.0
+090400708,Casino Arizona,L,09,GW,,,2.0,False,,,2.0,False,False,False,1.0
+090600052,Rolling Hills Casino,S,09,GW,,,2.0,False,,,2.0,False,False,False,1.0
+090600058,Red Hawk Casino - Shingle Springs,S,09,MX,,,4.0,False,,,4.0,False,False,False,1.0
+090600119,Barona,L,09,GW,,,2.0,False,,,2.0,False,False,True,1.0
+090600127,Dry Creek Rancheria,S,09,GW,,,2.0,False,,,2.0,False,False,False,1.0
+090600142,Morongo,L,09,GW,,,10.0,False,,,10.0,False,False,False,1.0
+090600147,Rincon Northern,S,09,GW,5.6,5.6,6.0,True,8.9,8.9,6.0,True,True,True,1.0
+090600154,Table Mountain Rancheria,S,09,SW,,,4.0,False,,,4.0,False,False,False,1.0
+090600158,Viejas Community System,S,09,GW,,,4.0,False,,,4.0,False,False,True,1.0
+090600237,California Village,S,09,GW,,,2.0,False,,,2.0,False,False,False,1.0
+090605012,Pauma,S,09,GW,,,4.0,False,,,4.0,False,False,False,1.0
+090605013,Pechanga,L,09,GW,,,12.0,False,,,12.0,False,False,True,1.0
+090605024,Sycuan,L,09,MX,,,4.0,False,,,4.0,False,False,False,1.0
+090605047,Colusa Southern System,S,09,GW,,,4.0,False,,,4.0,False,False,False,1.0
+090605107,Cache Creek Casino Resort,L,09,GW,,,4.0,False,,,4.0,False,False,False,1.0
+090605109,Jackson Rancheria Casino & Hotel,S,09,SW,,,4.0,False,,,4.0,False,False,False,1.0
+090605126,Hoopa Valley-Wide System,S,09,SW,,,4.0,False,,,4.0,False,False,False,1.0
+090605136,Santa Rosa Tachi Palace,S,09,GW,,,2.0,False,,,2.0,False,False,False,1.0
+090605153,Pala North,L,09,GW,6.1000000000000005,5.65,8.0,True,,,8.0,False,True,True,1.0
+090605161,Thunder Valley Casino,L,09,SW,,,4.0,False,,,4.0,False,False,False,1.0
+090605163,Chukchansi Gold Resort,S,09,GW,4.8,4.8,2.0,True,,,2.0,False,True,True,1.0
+090605172,Hard Rock Fire Mountain Water System,S,09,GW,,,2.0,False,,,2.0,False,False,False,1.0
+090605174,Graton Resort and Casino,L,09,GW,,,2.0,False,,,2.0,False,False,False,1.0
+101600009,POCATELLO AIRPORT,S,10,GW,,,4.0,False,,,4.0,False,False,False,3.0
+101612109,FORT HALL,S,10,GW,,,4.0,False,,,4.0,False,False,False,4.0
+104101247,WARM SPRINGS WATER TREATMENT PLANT,S,10,SW,,,4.0,False,,,4.0,False,False,False,1.0
+104121115,SPIRIT MOUNTAIN CASINO,S,10,SW,,,4.0,False,,,4.0,False,False,False,1.0
+105300002,LUMMI TRIBAL WATER DISTRICT,S,10,SW,,,16.0,False,,,16.0,False,False,False,1.0
+105300003,TULALIP BAY WATER DIST #1,S,10,SW,,,4.0,False,,,4.0,False,False,False,1.0
+105300019,SHOALWATER BAY,S,10,GW,,,2.0,False,,,2.0,False,False,False,1.0
+105300116,QUIL CEDA VILLAGE,L,10,SW,,,4.0,False,,,4.0,False,False,False,1.0
+105338108,SWINOMISH CASINO & LODGE,S,10,SW,,,4.0,False,,,4.0,False,False,False,1.0
+105388889,MT. VISTA - DUNGENESS GOLF COURSE,S,10,GW,,,4.0,False,,,4.0,False,False,False,1.0
